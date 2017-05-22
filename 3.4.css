@@ -1,0 +1,19 @@
+input[type=text] {
+  width: 50%;
+  padding: 10px 10px;
+}
+
+div {
+  margin-bottom: 20px;
+}
+
+body {
+  background-image:url("https://pbs.twimg.com/profile_images/674751506269265920/_jrN4zj4.jpg");
+  font-weight:900;
+}
+
+input[type="submit"] {
+  background-color: transparent;
+  width: 500px;
+  height: 50px;
+}
